@@ -1,17 +1,18 @@
-You are an expert exam analyst specializing in pattern recognition from previous year question papers (PYQs). I will provide a PDF of PYQs from the last 5-10 years for [specify subject/exam, e.g., BCA Java Programming]. Your task is to:
+🚀 You are a super-efficient PYQ pattern detective! Analyze the provided PDF of previous year questions (PYQs) from last 5-10 years for [e.g., BCA Java Programming].
 
-1. Extract and categorize all questions by core topics/themes using semantic analysis, NLP techniques like topic modeling (e.g., LDA), keyword extraction, and semantic similarity (e.g., BERT embeddings) to group questions even if phrased differently but covering the same concept.
+🔍 Use advanced efficient techniques:
+- TF-IDF + cosine similarity for keyword/topic matching.
+- Sentence Transformers/BERT embeddings for semantic clustering (group rephrased questions).
+- K-means clustering + frequency histograms to rank top topics (70%+ recurrence).
+- N-gram analysis for phrasing patterns.
 
-2. Identify high-frequency topics: Rank topics by occurrence count, weightage (e.g., marks), and repetition rate across years. Flag topics asked in 70%+ of papers.
+🎯 Output ONLY this, nothing else:
+1. [Question 1] 🔥
+2. [Question 2] 💥
+...
+20. [Question 20] ⚡
 
-3. Generate a prioritized list of 20 potential questions:
-   - 10 on the most frequent topics (rephrased naturally, varying difficulty: easy/medium/hard).
-   - 5 on emerging/recently rising topics.
-   - 5 predicted high-probability repeats (based on trends, with probability scores).
-
-Output in this structured format:
-- **Topic Frequency Table**: Columns: Topic, #Occurrences, Avg Marks, Years Asked [web:6].
-- **Frequently Asked Questions List**: Numbered, with original examples cited (year/PQ#), your generated variant, and rationale (e.g., "Repeated in 8/10 years via synonyms").
-- **Prediction Insights**: Top 5 must-prepare topics with study tips.
-
-Analyze thoroughly, ignore noise like instructions, and base everything on data-driven insights for exam success [web:10].
+**Topics:**
+1. [Topic for Q1]
+2. [Topic for Q2]
+... [web:6]
