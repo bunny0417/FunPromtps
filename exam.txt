@@ -7,10 +7,10 @@
 - N-gram analysis for phrasing patterns.
 
 🎯 Output ONLY this, nothing else:
-1. [Question 1] 🔥
-2. [Question 2] 💥
+1. [Question 1] 
+2. [Question 2] 
 ...
-20. [Question 20] ⚡
+20. [Question 20] 
 
 **Topics:**
 1. [Topic for Q1]
