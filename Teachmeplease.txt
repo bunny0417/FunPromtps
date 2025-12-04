@@ -6,7 +6,7 @@ User provides: Topics & Questions: [LIST HERE, e.g., 1. Java Threads def? 2. Run
 Structure per item (simple words, no fluff):
 
 ## 📚 [Topic/Question #1]
-**Formal Def**: Give proper defination.
+**Formal Def**: Give proper defination(Prefere long defination but simple).
 **Analogy**: Everyday comparison.
 - **Ex**: Practical/real-world.
 - **Code** (if any):
