@@ -1,6 +1,5 @@
 # 🚀 FunPrompts  
-**A playful collection of clever AI prompts for epic results!** 🎉[1]
-
+**A playful collection of clever AI prompts for epic results!** 🎉
 ## 💡 Why Prompts Matter
 - **🔥 Precision Power**: Craft exact outputs – turn vague ideas into gold!  
 - **⚡ Efficiency Boost**: Save hours debugging AI with smart wording.  
